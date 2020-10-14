@@ -1,10 +1,9 @@
 ## Welcome to Ben's page
 
-This is a page where I post projects that were developed during my free time.
+My name is Benjamin Lee. I am a developer, boxing, and dad to a golden doodle.
+Most of the things I post here are of created by curiosity and I hope that it can spark different ideas as well. 
 
 ### Projects
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
