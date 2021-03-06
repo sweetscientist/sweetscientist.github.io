@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Benjamin Lee # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am Benjamin Lee, a developer. I have extensive experience leading development, implementation, and oversight of a cohesive and unique data analytics strategy across all divisions of top-tier banking institution in Chicago, Colorado. Additionally, I've developed internal applications that have led to increased efficiencies and integration of proprietary models.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/benjamin-s-lee/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
