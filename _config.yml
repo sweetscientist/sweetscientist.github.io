@@ -88,7 +88,7 @@ content:
         quote: >
           “Data really powers everything that we do.” – Jeff Weiner
         description: | # this will include new lines to allow paragraphs
-          This about **data collection** using yahoofinance and turning the data into a shape that makes sense to us
+          This is about **data collection** using yahoofinance and turning the data into a shape that makes sense to us
           This project helps me understand that data does not simply just materialize out of thin air. 
           Data needs to be curated based on the objective of the data. 
 
