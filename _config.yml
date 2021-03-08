@@ -88,7 +88,7 @@ content:
         quote: >
           “Data really powers everything that we do.” – Jeff Weiner
         description: | # this will include new lines to allow paragraphs
-          This about <bold>data collection</bold> using yahoofinance and turning the data into a shape that makes sense to us
+          This about **data collection** using yahoofinance and turning the data into a shape that makes sense to us
           This project helps me understand that data does not simply just materialize out of thin air. 
           Data needs to be curated based on the objective of the data. 
 
@@ -104,14 +104,14 @@ content:
         quote: >
           Contact optimization by understaning human financial behaivors and building predictive models
         description: | # this will include new lines to allow paragraphs
-          Every company needs proper marketing that contacts the <bold>right people</bold> at the <bold>right time</bold> with the <bold>right recommendation</bold> BMO is no exception. 
-          Simply building predictive models is not enough to do this. I built and manage a proprietary campaign design tool, which has optimization capabilities. 
+          Every company needs proper marketing that understands consumer behavior. Data that BMO has allows my team to discern patterns between campaigns and customer behavior.  
+          Simply building predictive models is not enough to do this, so we work with our partners and field personnel to optimize our decision at all levels. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Illinois at Urbana-Chamapaign
+        title: University of Illinois @ Urbana-Champaign
         caption: 2010 - 2016
         sub_title: BSc Statistics
         quote: >
@@ -131,9 +131,10 @@ content:
       - Boxing
       - Cooking & Baking
       - Gaming 
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
+      # change below to cooking photos?
+      #Look at this cool image  
+      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
