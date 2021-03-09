@@ -47,10 +47,9 @@ youtube_username:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ben and I'm a data scientist. I enjoy buiding tools and managing process efficiency for analytical projects. Outside of work I like to test new technology, new flavors, 
-  and enjoy the sweet science. 
+  Hi, my name is Ben and I'm a data scientist. I enjoy buiding tools and managing process efficiency for analytical projects. Outside of work I like to work on 
   
-  I am most skilled in: <mark>Python</mark> and <mark>Baking Apple Pie</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>identifying inefficiencies</mark>
 
 content:
   - title: Projects # Title for the section
@@ -70,8 +69,8 @@ content:
         quote: >
           Survival of the Fittest
         description: | # this will include new lines to allow paragraphs
-          This about <mark>Genetic Algorithhms(GA)</mark>, which is an algorithm based on Darwin's evolution theory.
-          I started this project as a way of learning GA and it has since grown into a program that I use to tune various models.
+          This is about **Genetic Algorithhms(GA)**, which is an algorithm based on Darwin's evolution theory.
+          I started this project as a way of learning GA and it has since grown into a ubiquotous tool.
           
           
       - layout: top-middle
@@ -102,11 +101,38 @@ content:
         sub_title: Data Scientist
         caption: May 2020 - Present
         quote: >
-          Contact optimization by understaning human financial behaivors and building predictive models
+          Contact optimization by understanding human financial behaviors and building predictive models
         description: | # this will include new lines to allow paragraphs
-          Every company needs proper marketing that understands consumer behavior. Data that BMO has allows my team to discern patterns between campaigns and customer behavior.  
-          Simply building predictive models is not enough to do this, so we work with our partners and field personnel to optimize our decision at all levels. 
-
+          Every company needs proper marketing that understands consumer behavior. 
+          While building databases is a critical fundamental step my team also looks for patterns between campaigns and customer behavior.  
+          Simply building queries and predictive models is not enough to do this, so we work with our partners and branch personnel to optimize our decision at all levels.
+      
+      - layout: left
+        title: Constellation Brands
+        link: https://www.cbrands.com/
+        # link_text: cbrands.com
+        sub_title: Sr Analyst
+        caption: May 2018 - May 2020
+        quote: >
+          Maximize revenue by researching economic trends, social sciences, and flavor for beer, wine, and spirits
+        description: | # this will include new lines to allow paragraphs
+          We all like to enjoy a cold beer and kick back. In my case, I enjoyed brewing beer at home and wondering what I pay for.
+          This got me interested in how the world of finance impacts the alcohol industry.
+          Data collections tools, time series models, and decision making frameworks were built that improved sales significantly.
+          
+      - layout: left
+        title: AB Inbev
+        link: https://www.ab-inbev.com
+        # link_text: ab-inbev.com
+        sub_title: Data Science Intern
+        caption: Dec 2016 - April 2018
+        quote: >
+          Jack of all trades at the Bud Lab, AB Inbev's analytics research lab
+        description: | # this will include new lines to allow paragraphs
+          We all like to enjoy a cold beer and kick back. In my case, I enjoyed brewing beer at home and wondering what I pay for.
+          This got me interested in how the world of finance impacts the alcohol industry.
+          Data collections tools, time series models, and decision making frameworks were built that improved sales significantly.
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
