@@ -137,8 +137,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Illinois  
-        @ Urbana-Champaign
+        title: University of Illinois @ Urbana-Champaign
         caption: 2010 - 2016
         sub_title: BSc Statistics
         quote: >
