@@ -89,7 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           This is about **data collection** using yahoofinance and turning the data into a shape that makes sense to us
           This project helps me understand that data does not simply just materialize out of thin air. 
-          Data needs to be curated based on the objective of the data. 
+          Data needs to be curated based on the objective. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -137,7 +137,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Illinois @ Urbana-Champaign
+        title: University of Illinois  
+        @ Urbana-Champaign
         caption: 2010 - 2016
         sub_title: BSc Statistics
         quote: >
