@@ -57,7 +57,7 @@ content:
     content:
       - layout: top-middle
         title: Genetic algorithm 
-        link: coming March 20, 2021
+        link: in the works
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -75,7 +75,7 @@ content:
           
       - layout: top-middle
         title: Stock data collection
-        link: coming March 20, 2021
+        link: in the works 
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
