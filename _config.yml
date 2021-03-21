@@ -74,8 +74,7 @@ content:
           
           
       - layout: top-middle
-        title: Quantitative Finance 
-        # link_text: https://github.com/sweetscientist/quantitative_finance
+        title: [Quantitative Finance](https://github.com/sweetscientist/quantitative_finance)
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
