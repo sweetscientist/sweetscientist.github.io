@@ -74,9 +74,9 @@ content:
           
           
       - layout: top-middle
-        title: Stock data collection
-        link: in the works 
-        # link_text: Project Website
+        title: Quantitative Finance
+        link: https://github.com/sweetscientist/quantitative_finance
+        # link_text: stock_data_collection
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
@@ -87,9 +87,8 @@ content:
         quote: >
           “Data really powers everything that we do.” – Jeff Weiner
         description: | # this will include new lines to allow paragraphs
-          This is about **data collection** using yahoofinance and turning the data into a shape that makes sense to us
-          This project helps me understand that data does not simply just materialize out of thin air. 
-          Data needs to be curated based on the objective. 
+          This is a series of notebooks that I developed while I was exploring data options for my trading model.
+          It has data collection, strategy development, portfolio optimization along with technical analysis tools. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
