@@ -47,9 +47,9 @@ google_analytics: "UA-191793676-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ben and I'm a data scientist. I enjoy buiding tools and managing process efficiency for analytical projects. Outside of work I like to work on 
+  Hi, my name is Ben and I'm a data scientist. I enjoy buiding tools and managing process efficiency for analytical projects. 
   
-  I am most skilled in: <mark>Python</mark> and <mark>identifying inefficiencies</mark>
+  I am skilled in: Python, R, SQL, a bit of C++ / Java
 
 content:
   - title: Projects # Title for the section
@@ -87,8 +87,8 @@ content:
         quote: >
           “Data really powers everything that we do.” – Jeff Weiner
         description: | # this will include new lines to allow paragraphs
-          This is a series of notebooks that I developed while I was exploring data options for my trading model.
-          It has data collection, strategy development, portfolio optimization along with technical analysis tools. 
+          This is a series of notebooks that I am developing while I was explore ways to improve my trading system.
+          It will have data collection, strategy development, portfolio optimization along with technical analysis tools. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -151,11 +151,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      I can speak in: English & Korean as a native, Japanese enough to travel, and a bit of Chinese
+
       Alongside my interests in understanding the world through data and programming some of my other interests and hobbies are:
-      - Building trading tools
-      - Boxing
       - Cooking & Baking
-      - Gaming 
+      - Boxing
+      - Gaming
       
       # change below to cooking photos?
       #Look at this cool image  
