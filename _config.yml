@@ -75,6 +75,7 @@ content:
           
       - layout: top-middle
         title: Quantitative Finance
+        # link_text: https://github.com/sweetscientist/quantitative_finance
         link: link to github
         # link_text: https://github.com/sweetscientist/quantitative_finance
         additional_links:
