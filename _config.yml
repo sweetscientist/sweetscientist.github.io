@@ -71,7 +71,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           This is about **Genetic Algorithhms(GA)**, which is an algorithm based on Darwin's evolution theory.
           I started this project as a way of learning GA and it has since grown into a ubiquotous tool.
-          
+   
+   - layout: top-middle
+        title: Anomaly Detection
+        link: LINK 
+        # link_text: https://github.com/sweetscientist/anomaly_detection
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          “Practice isn't the thing you do once you're good. It's the thing you do that makes you good.” ― Malcolm Gladwell, Outliers: The Story of Success
+        description: | # this will include new lines to allow paragraphs
+          Network security has become a growing interest of mine and thought it would be best if I get into by actually practicing some ways to detect outliers.
           
       - layout: top-middle
         title: Quantitative Finance
