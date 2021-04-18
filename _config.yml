@@ -72,7 +72,7 @@ content:
           This is about **Genetic Algorithhms(GA)**, which is an algorithm based on Darwin's evolution theory.
           I started this project as a way of learning GA and it has since grown into a ubiquotous tool.
    
-   - layout: top-middle
+     - layout: top-middle
         title: Anomaly Detection
         link: LINK 
         # link_text: https://github.com/sweetscientist/anomaly_detection
@@ -90,7 +90,6 @@ content:
           
       - layout: top-middle
         title: Quantitative Finance
-        # link_text: https://github.com/sweetscientist/quantitative_finance
         link: LINK 
         # link_text: https://github.com/sweetscientist/quantitative_finance
         additional_links:
