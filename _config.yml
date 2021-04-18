@@ -45,7 +45,7 @@ google_analytics: "UA-191793676-1"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: # add image here
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ben and I'm a data scientist. I enjoy buiding tools and managing process efficiency for analytical projects. 
   
