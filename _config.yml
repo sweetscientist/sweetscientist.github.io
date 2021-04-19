@@ -89,21 +89,6 @@ content:
           This is a series of notebooks that I am developing while I was explore ways to improve my trading system.
           It will have data collection, strategy development, portfolio optimization along with technical analysis tools. 
      
-     - layout: top-middle
-        title: Anomaly Detection
-        link: LINK 
-        # link_text: https://github.com/sweetscientist/anomaly_detection
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          “Practice isn't the thing you do once you're good. It's the thing you do that makes you good.” ― Malcolm Gladwell, Outliers: The Story of Success
-        description: | # this will include new lines to allow paragraphs
-          Network security has become a growing interest of mine and thought it would be best if I get into by actually practicing some ways to detect outliers.
           
      
   - title: Experience # Title for the section
