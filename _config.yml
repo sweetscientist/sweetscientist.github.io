@@ -74,8 +74,7 @@ content:
         
         title: Quantitative Finance
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-        #link_text: https://github.com/sweetscientist/quantitative_finance
+        github: https://github.com/sweetscientist/quantitative_finance
         additional_links:
           - title:  sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
