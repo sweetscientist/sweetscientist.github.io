@@ -55,21 +55,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Genetic algorithm 
-        link: in the works
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Survival of the Fittest
-        description: | # this will include new lines to allow paragraphs
-          This is about **Genetic Algorithhms(GA)**, which is an algorithm based on Darwin's evolution theory.
-          I started this project as a way of learning GA and it has since grown into a ubiquotous tool.
-   
+      
       - layout: top-middle
         
         title: Quantitative Finance
