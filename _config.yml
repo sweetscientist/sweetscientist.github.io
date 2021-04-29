@@ -97,9 +97,9 @@ content:
         quote: >
           Contact optimization by understanding human financial behaviors and building predictive models
         description: | # this will include new lines to allow paragraphs
-          Every company needs proper marketing that understands consumer behavior. 
-          While building databases is a critical fundamental step my team also looks for patterns between campaigns and customer behavior.  
-          Simply building queries and predictive models is not enough to do this, so we work with our partners and branch personnel to optimize our decision at all levels.
+          Part of the core analytics engine that powers BMO Harris by providng insights, inspiring customer-centric innovations, and solving problems in a dynamic and effective manner. 
+          Built machine learning models to predict hardship due to COVID-19, Cross Sell models, Customer segmentation models, and retention forecasting. 
+          Currently expanding work to database management, campaign development, and operations research modelling. 
       
       - layout: left
         title: Constellation Brands
@@ -110,22 +110,25 @@ content:
         quote: >
           Maximize revenue by researching economic trends, social sciences, and flavor for beer, wine, and spirits
         description: | # this will include new lines to allow paragraphs
-          We all like to enjoy a cold beer and kick back. In my case, I enjoyed brewing beer at home and wondering what I pay for.
-          This got me interested in how the world of finance impacts the alcohol industry.
-          Data collections tools, time series models, and decision making frameworks were built that improved sales significantly.
+          Joined revenue management team for beer where main focus was finding market opportunities that could be utilized to gain market share or revenue.
+          Provided statistical analysis to supplier, distributors, and retailers who are part of the 3-tier system. 
+          During my time at CBI, also automated manual processes cutting down time by 85%. Developed machine learning models tied with financial analysis providing the team 
+          a clear view of revenue gains. 
           
       - layout: left
-        title: AB Inbev
+        title: AB Inbev BudLab @Research Park
         link: https://www.ab-inbev.com
         # link_text: ab-inbev.com
-        sub_title: Data Science Intern
+        sub_title: Data Science
         caption: Dec 2016 - April 2018
         quote: >
           Jack of all trades at the Bud Lab, AB Inbev's analytics research lab
         description: | # this will include new lines to allow paragraphs
-          We all like to enjoy a cold beer and kick back. In my case, I enjoyed brewing beer at home and wondering what I pay for.
-          This got me interested in how the world of finance impacts the alcohol industry.
-          Data collections tools, time series models, and decision making frameworks were built that improved sales significantly.
+          Worked in revenue management responsible for extracting insight from historical data, building predictive model, and providing actionable insight at a global level.
+          Developed optimization models for multiple businesses at national level allowing AB Inbev to increase share in Brazil, Canada, and South Africa. 
+          Focused on additional research such as understanding where to open brew pubs, what flavor beers to produce, and demand forecasting using machine learning. 
+
+          
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
