@@ -90,17 +90,17 @@ content:
     content:
       - layout: left
         title: BMO Financial Group
-        link: https://www.bmoharris.com
+        link: https://www.bmo.com/
         # link_text: bmoharris.com
-        sub_title: Data Scientist
+        sub_title: Data Scientist, Manager
         caption: May 2020 - Present
         quote: >
-          Contact optimization by understanding human financial behaviors and building predictive models
+          Contact optimization by applying economical behavioral science and risk management to analytics
         description: | # this will include new lines to allow paragraphs
-          Part of the core analytics engine that powers BMO Harris by providng insights, inspiring customer-centric innovations, and solving problems in a dynamic and effective manner. 
-          Built machine learning models to predict hardship due to COVID-19, Cross Sell models, Customer segmentation models, and retention forecasting. 
-          Currently expanding work to database management, campaign development, and operations research modelling. 
-      
+          Part of the core analytics engine that powers Bank of Montreal by developing cutting-edge analytics, optimization models, and solving problems in a dynamic and effective manner. 
+          Overlook machine learning framework and models to predict hardship due to COVID-19, Cross Sell models, channel optimization models, and retention forecasting. 
+          Currently expanded work to partnership management, database development and strategy development along with lunch and learn sessions. 
+               
       - layout: left
         title: Constellation Brands
         link: https://www.cbrands.com/
