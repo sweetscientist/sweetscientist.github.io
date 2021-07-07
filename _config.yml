@@ -143,15 +143,11 @@ content:
           During my time as a college student, I spent 2 years in the Korea military, which helped me understand what I want to do in the future and build a plan.
           Started as an Industrial Engineering major and then transferred to Statistics after taking a Probability for Engineers class taught by Professor Richard Sowers. 
           This experience has allowed me to enjoy what and I do and constantly push myself further. 
-          
-       - layout: left
+      - layout: left
         title: CFA Level 1
-        caption: 2021
+        caption: 2021-2022
         quote: >
-          My aunt's story about working at Rockefeller got me into finance and thus my journey begins. 
-        
-          
-          
+          My aunt's story about working at Rockefeller got me into finance and thus my journey begins.
           
   - title: A Little More About Me
     layout: text
