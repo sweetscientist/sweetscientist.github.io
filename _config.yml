@@ -140,9 +140,16 @@ content:
         quote: >
           During my time in Champaings, I learned how to constantly learn regardless of what I am doing. 
         description: | # this will include new lines to allow paragraphs
-          During my time as a college student, I spent **2 years** in the Korea military, which helped me understand what I want to do in the future and build a plan.
+          During my time as a college student, I spent 2 years in the Korea military, which helped me understand what I want to do in the future and build a plan.
           Started as an Industrial Engineering major and then transferred to Statistics after taking a Probability for Engineers class taught by Professor Richard Sowers. 
           This experience has allowed me to enjoy what and I do and constantly push myself further. 
+          
+        - layout: left
+        title: CFA Level 1
+        caption: 2021
+        quote: >
+          My aunt's story about working at Rockefeller got me into finance and thus my journey begins. 
+        
           
           
           
@@ -152,9 +159,9 @@ content:
       I can speak in: English & Korean as a native, Japanese enough to travel, and a bit of Chinese
 
       Alongside my interests in understanding the world through data and programming some of my other interests and hobbies are:
-      - Cooking & Baking
+      - Health Care and Sustainability
       - Boxing
-      - Gaming
+
       
 # Footer
 footer_show_references: true
